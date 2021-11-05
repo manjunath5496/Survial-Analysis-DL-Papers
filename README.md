@@ -13,8 +13,7 @@ Neural Networks for Renal Survival and Beyond</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(4).pdf" style="text-decoration:none;">Time-to-Event Prediction with Neural Networks and Cox Regression</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(5).pdf" style="text-decoration:none;">Deep Learning based multi-omics integration robustly predicts survival in liver cancer</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(6).pdf" style="text-decoration:none;">DeepSurv: Personalized Treatment Recommender System Using A Cox Proportional Hazards Deep Neural Network</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(7).pdf" style="text-decoration:none;">Twenty five years long survival analysis of an individual shortleaf pine trees</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(8).pdf" style="text-decoration:none;"> Learning Genomic Representations to Predict Clinical Outcomes in Cancer</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(9).pdf" style="text-decoration:none;">Posterior Consistency for a Non-parametric Survival Model under a Gaussian Process Prior</a></li>
@@ -22,15 +21,14 @@ for interconnected web services</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(10).pdf" style="text-decoration:none;">An Efficient Training Algorithm for Kernel Survival Support Vector Machines </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(11).pdf" style="text-decoration:none;">Deep Learning for Patient-Specific Kidney Graft Survival Analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(12).pdf" style="text-decoration:none;">Deep Learning for Patient-Specific Kidney Graft Survival Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(12).pdf" style="text-decoration:none;">scikit-survival: A Library for Time-to-Event Analysis Built on Top of scikit-learn</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(13).pdf" style="text-decoration:none;">Contextual Explanation Networks</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(14).pdf" style="text-decoration:none;">tick: a Python library for statistical learning, with a particular emphasis on time-dependent modeling</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(15).pdf" style="text-decoration:none;">Deep Neural Networks for Survival Analysis Based on a Multi-Task Framework</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(16).pdf" style="text-decoration:none;">Survival Analysis Part IV: Further concepts and methods in survival analysis</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(17).pdf" style="text-decoration:none;">Adversarial Time-to-Event Modeling</a></li>   
   
