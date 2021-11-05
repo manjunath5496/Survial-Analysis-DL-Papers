@@ -44,7 +44,7 @@ Neural Networks for Renal Survival and Beyond</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(23).pdf" style="text-decoration:none;">Deep Recurrent Survival Analysis</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(24).pdf" style="text-decoration:none;">Continuous - Time Survival Analysis in Mplus</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(25).pdf" style="text-decoration:none;">SAFE: A Neural Survival Analysis Model for Fraud Early Detection</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(26).pdf" style="text-decoration:none;">Nonparametric Bayesian Lomax delegate racing for survival analysis with competing risks</a></li>
@@ -69,7 +69,7 @@ Neural Networks for Renal Survival and Beyond</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(36).pdf" style="text-decoration:none;">Semi-Supervised Variational Autoencoder for Survival Prediction</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(37).pdf" style="text-decoration:none;">Continuous and Discrete-Time Survival Prediction with Neural Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(38).pdf" style="text-decoration:none;">Survival analysis for the risk of developing heart attack</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(39).pdf" style="text-decoration:none;">Targeted Estimation of Heterogeneous Treatment Effect in Observational Survival Analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(40).pdf" style="text-decoration:none;">A kernel log-rank test of independence for right-censored data</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(41).pdf" style="text-decoration:none;">The Brier Score under Administrative Censoring: Problems and Solutions</a></li>
@@ -78,7 +78,7 @@ Neural Networks for Renal Survival and Beyond</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(43).pdf" style="text-decoration:none;">Survival Cluster Analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(44).pdf" style="text-decoration:none;">Deep Survival Machines:
 Fully Parametric Survival Regression and Representation Learning for Censored Data with Competing Risks</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(45).pdf" style="text-decoration:none;">Business Bankruptcy Prediction Based on Survival Analysis Approach</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(46).pdf" style="text-decoration:none;">Variational Learning of Individual Survival Distributions</a></li> 
                              
