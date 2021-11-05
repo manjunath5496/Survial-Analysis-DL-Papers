@@ -140,40 +140,39 @@ Recurrent Neural Network</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(73).pdf" style="text-decoration:none;">Machine Learning for Survival Analysis: A Survey</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(74).pdf" style="text-decoration:none;">Deep Integrative Analysis for Survival Prediction</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(75).pdf" style="text-decoration:none;">Survival analysis</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(76).pdf" style="text-decoration:none;">Machine learning for survival analysis: a case study on recurrence of prostate cancer</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(77).pdf" style="text-decoration:none;">Introduction to Survival Analysis in Practice</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(78).pdf" style="text-decoration:none;">Deep Learning-Based Survival Analysis for High-Dimensional Survival Data</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(79).pdf" style="text-decoration:none;">Gaussian Processes for Survival Analysis</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(80).pdf" style="text-decoration:none;">Deep Multi-task Gaussian Processes for Survival Analysis with Competing Risks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(81).pdf" style="text-decoration:none;">Neural Survival Recommender</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(82).pdf" style="text-decoration:none;">A scalable discrete-time survival model for neural networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(83).pdf" style="text-decoration:none;">Deep Survival Analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(84).pdf" style="text-decoration:none;">RNN-SURV: a Deep Recurrent Model for Survival Analysis</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(85).pdf" style="text-decoration:none;">A comparison of the conditional inference survival forest model to random survival forests based on a simulation study as well as on two applications with time-to-event data</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(86).pdf" style="text-decoration:none;">Application of random survival
+forests in understanding the determinants of under‑five child mortality in Uganda in the presence of covariates that satisfy the proportional and non‑proportional hazards
+assumption</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(87).pdf" style="text-decoration:none;">A Deep Learning-Based Radiomics
+Model for Prediction of Survival in Glioblastoma Multiforme</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(88).pdf" style="text-decoration:none;">Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(89).pdf" style="text-decoration:none;">Scalable Joint Models for Reliable Uncertainty-Aware Event Prediction</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(90).pdf" style="text-decoration:none;"> Deep survival analysis with longitudinal X-rays for COVID-19</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(91).pdf" style="text-decoration:none;">Exploring theWasserstein metric for survival analysis</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(92).pdf" style="text-decoration:none;">Gaussian Process Based
+Approaches for Survival Analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(93).pdf" style="text-decoration:none;"> WSISA: Making Survival Prediction from Whole Slide Histopathological Images</a></li>
   </ul>
