@@ -173,4 +173,7 @@ Model for Prediction of Survival in Glioblastoma Multiforme</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(92).pdf" style="text-decoration:none;">Gaussian Process Based
 Approaches for Survival Analysis</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(93).pdf" style="text-decoration:none;"> WSISA: Making Survival Prediction from Whole Slide Histopathological Images</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Survial-Analysis-DL-Papers/blob/master/s(94).pdf" style="text-decoration:none;"> A Multi-Task Learning Formulation for Survival Analysis</a></li>
+  
+  
   </ul>
